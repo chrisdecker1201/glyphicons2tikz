@@ -1,0 +1,7 @@
+# folders
+node_modules/
+svg/
+tikz/
+
+#files
+config.json

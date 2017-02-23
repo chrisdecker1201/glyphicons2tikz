@@ -1,0 +1,16 @@
+{
+    "color": "black",
+    "svg_output": "svg/",
+    "tikz_output": "tikz/",
+    "glyphicons":{
+        "e065":{
+            "mirror": true
+        },
+        "e020":{
+            "mirror": true
+        },
+        "e093":{
+            "mirror": true
+        }
+    }
+}
