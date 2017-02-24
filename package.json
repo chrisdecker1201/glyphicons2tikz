@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "Converts Bootstrap Glyphicons to tikz",
   "main": "index.js",
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "https://github.com/chrisdecker1201/glyphicons2tikz"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodejs index.js"
