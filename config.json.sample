@@ -1,16 +1,41 @@
 {
     "color": "black",
-    "svg_output": "svg/",
-    "tikz_output": "tikz/",
-    "glyphicons":{
-        "e065":{
-            "mirror": true
+    "bootstrap":{
+        "svg_output": "svg/bootstrap/",
+        "tikz_output": "tikz/bootstrap/",
+        "css_file": "./node_modules/bootstrap/dist/css/bootstrap.css",
+        "font_file": "./node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg",
+        "css_prefix": "glyphicon-",
+        "default": {
+            "width": 1300,
+            "height": 1300,
+            "translateX": 0,
+            "translateY": -1300
+        }
+    },
+    "fontawesome":{
+        "svg_output": "svg/fontawesome/",
+        "tikz_output": "tikz/fontawesome/",
+        "css_file": "./node_modules/font-awesome/css/font-awesome.css",
+        "font_file": "./node_modules/font-awesome/fonts/fontawesome-webfont.svg",
+        "css_prefix": "fa-",
+        "default": {
+            "width": 1800,
+            "height": 2000,
+            "translateX": 0,
+            "translateY": -1600
         },
-        "e020":{
-            "mirror": true
+        "500px":{
+            "width": 1405
         },
-        "e093":{
-            "mirror": true
+        "asl-interpreting":{
+            "width": 2305
+        },
+        "android":{
+            "width": 1410
+        },
+        "linux":{
+            "width": 1550
         }
     }
 }
