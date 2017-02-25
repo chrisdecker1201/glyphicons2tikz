@@ -32,3 +32,5 @@ I configured the output of the tool with the _tikz_\__output_-parameter into my 
 ```latex
 \includestandalone[height=9pt]{tikz/eye-open}I really love to use many icons in my text \includestandalone[height=9pt]{tikz/king}
 ```
+------------------------------------------------
+Please read LICENSE file for licensing details.
