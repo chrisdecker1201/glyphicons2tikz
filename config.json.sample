@@ -36,6 +36,11 @@
         },
         "linux":{
             "width": 1550
+        },
+        "play":{
+            "width": 1450,
+            "height": 1650,
+            "translateY": -1450
         }
     }
 }
