@@ -49,6 +49,7 @@ For example: I found out that the linux icon from fontawesome is too wide. So I 
 You can also override the __height__, translation in X(__translateX__) and translation in Y (__translateY__) direction, but translation in Y-direction must be multiplied with the factor "-1" because I had to mirror all icons.
 
 # Versions
+* v1.1.2 force svg2tikz version
 * v1.1.1 update packages
 * v1.1.0 added fontawesome support
 * v1.0.0 bootstrap support
