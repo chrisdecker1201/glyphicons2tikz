@@ -12,6 +12,7 @@ sudo python setup.py install
 # install glyphicons2tikz
 git clone https://github.com/chrisdecker1201/glyphicons2tikz
 cd glyphicons2tikz
+git checkout 7a9959c295e1ed73e543474c6f3679d04cebc9e9
 # copy configuration
 cp config.json.sample config.json
 npm install
